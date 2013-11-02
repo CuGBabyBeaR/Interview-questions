@@ -3,7 +3,7 @@ def find_center(arr):
     sums.append(map(sum, [[r[col] for r in arr] for col in range(0,len(arr))])) # get the sum in Y deriction
     sums.append(map(sum, arr))                                                  # get the sum in X deriction
     
-    center = [float(sum((sum_[i]*i for i in range(0,len(sum_))))) / ((len(sum_)-1) * len(sum_) / 2) for sum_ in sums] 
+    center = [float(sum((sum_[i]*i for i in range(0,len(sum_))))) / sum(sum_) for sum_ in sums] 
     # calculation of 2 weighted means 
 
     return center
