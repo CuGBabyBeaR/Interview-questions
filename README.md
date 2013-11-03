@@ -8,4 +8,4 @@ Interview questions
    Calculate the equilibrium point of a 2D array
 
  - **palindrome**  
-   Is this string is palindrome?
+   Is this string a palindrome?
