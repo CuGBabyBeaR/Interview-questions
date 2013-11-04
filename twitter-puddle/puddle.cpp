@@ -1,3 +1,7 @@
+/* 
+ * CuGBabyBeaR  
+ */
+
 #include "stdio.h"
 
 int volume_calcuate(int[],int);

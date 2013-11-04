@@ -1,3 +1,5 @@
+# CuGBabyBeaR
+
 def calculate(testcase):
     p_l = 0
     p_r = len(testcase) - 1
@@ -13,7 +15,6 @@ def calculate(testcase):
             else:
                 volume = volume + (max_l - testcase[p_l])
                 pass
-            pass
         else:
             p_r = p_r - 1
             if testcase[p_r] >= max_r:
@@ -21,7 +22,6 @@ def calculate(testcase):
             else:
                 volume = volume + (max_r - testcase[p_r])
                 pass
-            pass
         pass
     pass
 
