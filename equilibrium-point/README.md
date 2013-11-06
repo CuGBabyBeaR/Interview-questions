@@ -12,4 +12,4 @@ Infect, point of equilibrium means center of gravity. Thus, all need to do is ge
 Interestingly, in Python, we can do that by only 4 lines of code. 
 使用Python只需要4行代码
 
-> by CuGBabyBeaR
+> equilibrium.py: CuGBabyBeaR

@@ -39,11 +39,12 @@ The solution in one pass (shown in the gist) avoids finding the maximum value by
 一次遍历的方法通过两端的指针相向移动避免了寻找最大值。如果（左指针找到的左指针以左的最大值）小于（右指针找到右指针以右的最大值），将左指针向右移动一位。否则右指针向左移动一位。重复过程直到两个指针相遇。（解释起来很麻烦，但是代码很简单）
 
 ##About Code  关于代码  
-Basic the logic above, I (CuGBabyBeaR) write code for this in two different programming language Python and c++ in "puddle.py" and "puddle.cpp". These files including 3 difference test case and test code, 2 of them are from original post.  
-我用Python和c++实现了作者的算法。代码文件中有测试代码和3个测试用例。测试用例中的两个来自原作者。
+Code including 3 difference test case and test code, 2 of them are from original post.  
+代码中有测试代码和3个测试用例。测试用例中的两个来自原作者。
 
-> by CuGBabyBeaR   
-
+> puddle.py:    CuGBabyBeaR   
+> puddle.cpp:   CuGBabyBeaR  
+> puddle..java: CuGBabyBeaR  
 
   [1]: http://qandwhat.apps.runkite.com/i-failed-a-twitter-interview/
   [2]: http://qandwhat.apps.runkite.com/i-failed-a-twitter-interview/
