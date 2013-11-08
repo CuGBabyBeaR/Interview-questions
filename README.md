@@ -20,3 +20,7 @@ Interview questions
  - **Min Difference 最小差**  
    Minimum absolute value of pairwise difference of int array.  
    数组中的数两两之差绝对值的最小值  
+
+ - **0s in factorial  阶乘末尾的0**
+   How many 0s in the end of N!  
+   n!(n的阶乘)末尾有多少个0？ 
