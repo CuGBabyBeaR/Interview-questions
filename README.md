@@ -24,3 +24,7 @@ Interview questions
  - **0s in factorial  阶乘末尾的0**  
    How many 0s in the end of N!  
    n!(n的阶乘)末尾有多少个0？ 
+
+ - **Matrix Printer 矩阵打印**  
+   Print a 2D array (martix) in different order: clockwise or anti-clockwise spirally, S or Z, N or reversed N   
+   以顺时针/逆时针向内 S(Z)型 N型/反N型 一个二维矩阵  
