@@ -25,5 +25,5 @@ Thus, all need to do is find out, between 1 and N, how many of these 5 s.
  - 5^n, 增加n个0  
 我们只要找到这些5的n次方有多少就行了。  
 
- > 0s-in-factorial.py: CuGBabyBeaR
- > 0s-in-factorial.cpp: CuGBabyBeaR
+ > 0s-in-factorial.py: CuGBabyBeaR  
+ > 0s-in-factorial.cpp: CuGBabyBeaR  
